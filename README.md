@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-direct-messages](screens/direct-messages)
 - [react-native-articles](modules/articles)
 - [screen-appointment-calendar](screens/appointment-calendar)
+- [screen-add-card-details](screens/add-card-details)
 
 # Getting started: Frontend
 
