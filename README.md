@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-buyer-address-verification](screens/buyer-address-verification)
 - [screen-chat-listing](screens/chat-listing)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
