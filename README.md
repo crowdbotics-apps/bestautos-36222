@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-buyer-address-verification](screens/buyer-address-verification)
 - [screen-chat-listing](screens/chat-listing)
 - [react-native-chat](modules/chat)
+- [screen-direct-messages](screens/direct-messages)
 
 # Getting started: Frontend
 
