@@ -1005,6 +1005,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
 "@modules/chat@file:./modules/chat":
   version "1.0.0"
   dependencies:
@@ -1235,7 +1238,7 @@
 "@screens/chat-listing@file:./screens/chat-listing":
   version "1.0.0"
 
-"@screens/direct-messages@file:./screens/direct-messages/":
+"@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
